@@ -1,0 +1,34 @@
+body{
+    background-color: cyan;
+}
+h1{
+    background-color: greenyellow;
+    color: red;
+}
+table{
+    background-color: black;
+    color:antiquewhite;
+}
+th{
+    color:whitesmoke;
+}
+td{
+    background-color: royalblue;
+}
+pre{
+    color:black;
+    background-color: gold;
+}
+div{
+    background-color: goldenrod;
+}
+span{
+    background-color: yellow;
+}
+caption{
+    background-color: greenyellow;
+    color: red;
+}
+form{
+    background-color: burlywood;
+}
