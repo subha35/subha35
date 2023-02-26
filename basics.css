@@ -1,0 +1,38 @@
+table{
+    border:greenyellow 1rem solid;
+    font-size: xx-small;
+    font-size:large;
+    background-color: aqua;
+    height: fit-content;
+    width: fit-content;
+}
+td{
+    border: solid;
+    background-color: chocolate; 
+    text-align: center;
+    
+}
+th{
+    background-color: green;
+    color:black;
+    border: 4mm ridge blueviolet;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.rutin{
+    background-color: black;
+    color: whitesmoke;
+    height:max-content;
+}
+.colour{
+    background-color: rgb(189, 198, 90);
+    color: black;
+}
+.bigg{
+    font-size: xx-large;
+}
+.big{
+    font-size:larger;
+}
